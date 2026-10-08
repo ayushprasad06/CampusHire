@@ -1,0 +1,37 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 50 50"
+  width="50"
+  height="50"
+>
+  <!-- Blue rounded-square background -->
+  <rect
+    x="0"
+    y="0"
+    width="50"
+    height="50"
+    rx="11"
+    fill="#155DFC"
+  />
+
+  <!-- Graduation cap -->
+  <g
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="1.8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <!-- Mortarboard -->
+    <path d="M13 22.5L25 16L37 22.5L25 29L13 22.5Z"/>
+
+    <!-- Cap band -->
+    <path d="M17 25V29.5C17 33 20.6 35 25 35C29.4 35 33 33 33 29.5V25"/>
+
+    <!-- Tassel stem -->
+    <path d="M37 23V30"/>
+
+    <!-- Tassel -->
+    <path d="M35.5 30C35.5 28.9 36.2 28.3 37 28.3C37.8 28.3 38.5 28.9 38.5 30V34.5C38.5 35.3 37.8 36 37 36C36.2 36 35.5 35.3 35.5 34.5V30Z"/>
+  </g>
+</svg>
